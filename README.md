@@ -1,5 +1,5 @@
 # ATLAS
-My contribution to the ATLAS v4 project, a categorisation of finite simple groups.
+My contribution to the ATLAS v4 project, a categorisation of finite simple groups. The Monster is available [here](https://mathvideos.org/wp-content/uploads/ATLAS/m/m.html).
 
 ## About ATLAS v4
 This is a digitisation of the [ATLAS of finite simple groups](https://en.wikipedia.org/wiki/ATLAS_of_Finite_Groups) written by Conway et al. written in 1985. There have been 3 previous digitisations, but the aim of this is twofold:
