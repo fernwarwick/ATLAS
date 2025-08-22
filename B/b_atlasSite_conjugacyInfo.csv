@@ -1,0 +1,189 @@
+,Conjugacy  class,Centraliser order,Power  up,Class  rep(s)
+0,1A,4154781481226426191177580544000000,,
+1,2A,306129918735099415756800,6A 6B 6D 10A 14A 14B 18A 18B 22A 26B  30A 30B 34B 34C 38A 42A 42B 66A 70A,
+2,2B,354883595661213696000,4A 4B 4C 4D 4F 4G 6C 6G 8A 8B 8C 8D 8E  8F 8H 8I 8L 10B 10D 12A 12B 12C 12D 12E 12G 12H 12I 12K 12L  12M 12O 14D 16A 16B 16C 16D 16E 16F 18C 20A 20B 20C 20D 20E  20F 20I 22B 24A 24B 24C 24D 24E 24F 24G 24K 24M 28A 28B 28C  28D 30D 30G 30H 32A 32B 32C 32D 36A 36B 40A 40B 40C 40D 44A  46A 46B 48A 48B 56A 56B 60A 60B,
+3,2C,26489012826931200,4I 6F 6K 10C 12T 14C 18F 20H 26A 30C  34A 42C 52A,
+4,2D,11689182992793600,4E 4H 4J 6E 6H 6I 6J 8G 8J 8K 8M 8N  10E 10F 12F 12J 12N 12P 12Q 12R 12S 14E 16G 16H 18D 18E 20G  20J 24H 24I 24J 24L 24N 28E 30E 30F 36C 40E 60C,
+5,3A,387370509926400,6A 6B 6C 6E 6F 6H 12A 12C 12D 12E 12G  12H 12I 12J 12L 12P 15A 21A 24A 24B 24C 24D 24E 24G 24I 24J  30A 30B 30C 30D 30E 33A 39A 42A 42B 42C 48A 48B 60A 60B  66A,
+6,3B,65303470080,6D 6G 6I 6J 6K 9A 9B 12B 12F 12K 12M  12N 12O 12Q 12R 12S 12T 15B 18A 18B 18C 18D 18E 18F 24F 24H  24K 24L 24M 24N 27A 30F 30G 30H 36A 36B 36C 60C,
+7,4A,372051542016000,12C 20A 20B 20C 28C 44A 60A,
+8,4B,109586090557440,8B 8C 8E 12A 12B 12D 20D 24A 24B 24C  24D 28A 36A 40A 40B 40C,
+9,4C,202937204736,8A 8D 8F 8H 12G 12M 16A 16B 16C 16D  16E 16F 24E 24F 24G 24K 28B 32A 32B 32C 32D 48A 48B 56A  56B,
+10,4D,190253629440,12E 12H 12K 20E 28D 36B 60B,
+11,4E,95126814720,8G 8J 12F 12J 12N 20G 24H 24I 24J 28E  36C 40E 60C,
+12,4F,24159191040,8I 12I 12O 20I 24M,
+13,4G,6039797760,8L 12L 20F 40D,
+14,4H,301989888,8K 8M 12P 12Q 12S 16G 16H 24L,
+15,4I,143769600,12T 20H 52A,
+16,4J,125829120,8N 12R 20J 24N,
+17,5A,443520000,10A 10B 10C 10E 15A 20A 20C 20D 20E  20F 20H 30A 30B 30C 30D 30E 35A 40A 40B 40C 40D 55A 60A 60B  70A,
+18,5B,6000000,10D 10F 15B 20B 20G 20I 20J 25A 30F  30G 30H 40E 60C,
+19,6A,110361968640,30B 42B 66A,
+20,6B,6270566400,30A 42A,
+21,6C,318504960,12A 12C 12D 12E 12G 12H 12I 12L 24A  24B 24C 24D 24E 24G 30D 48A 48B 60A 60B,
+22,6D,40310784,18A 18B,
+23,6E,19906560,30E,
+24,6F,17418240,30C 42C,
+25,6G,14929920,12B 12K 12M 12O 18C 24F 24K 24M 30G  30H 36A 36B,
+26,6H,10616832,12J 12P 24I 24J,
+27,6I,9953280,12F 12Q 12R 24H 24L 24N 30F 60C,
+28,6J,497664,12N 12S 18D 18E 36C,
+29,6K,373248,12T 18F,
+30,7A,564480,14A 14B 14C 14D 14E 21A 28A 28B 28C  28D 28E 35A 42A 42B 42C 56A 56B 70A,
+31,8A,396361728,24E 24F 56A 56B,
+32,8B,11796480,24A 40A,
+33,8C,11796480,24B 40B,
+34,8D,6291456,16A 16B 16E 24G 48A 48B,
+35,8E,5898240,24C 24D 40C,
+36,8F,1572864,24K,
+37,8G,1474560,24H 24I 40E,
+38,8H,524288,16C 16D 16F 32A 32B 32C 32D,
+39,8I,196608,24M,
+40,8J,98304,24J,
+41,8K,98304,16G 24L,
+42,8L,81920,40D,
+43,8M,32768,16H,
+44,8N,12288,24N,
+45,9A,17496,18E 27A 36C,
+46,9B,11664,18A 18B 18C 18D 18F 36A 36B,
+47,10A,403200,30A 30B 70A,
+48,10B,76800,20A 20C 20D 20E 20F 30D 40A 40B 40C  40D 60A 60B,
+49,10C,28800,20H 30C,
+50,10D,24000,20B 20I 30G 30H,
+51,10E,19200,30E,
+52,10F,9600,20G 20J 30F 40E 60C,
+53,11A,1320,22A 22B 33A 44A 55A 66A,
+54,12A,3981312,,Omitted  owing to  length.
+55,12B,746496,36A,
+56,12C,737280,60A,
+57,12D,663552,24A 24B 24C 24D,
+58,12E,276480,60B,
+59,12F,138240,24H 60C,
+60,12G,73728,24E 24G 48A 48B,
+61,12H,55296,,Omitted  owing to  length.
+62,12I,36864,,abababbababbabababbababbabababababbababbabbabbababb
+63,12J,27648,24I 24J,
+64,12K,20736,36B,
+65,12L,18432,,Omitted  owing to  length.
+66,12M,13824,24F 24K,
+67,12N,10368,36C,
+68,12O,9216,24M,
+69,12P,9216,,Omitted  owing to  length.
+70,12Q,9216,24L,
+71,12R,1536,24N,
+72,12S,1152,,ababbabababbababababbababbabb
+73,12T,864,,ababababbababababbababbabababbababb
+74,13A,312,26A 26B 39A 52A,
+75,14A,564480,42A 70A,
+76,14B,4704,42B,
+77,14C,4704,42C,
+78,14D,1792,28A 28B 28C 28D 56A 56B,
+79,14E,1792,28E,
+80,15A,3600,30A 30B 30C 30D 30E 60A 60B,
+81,15B,120,30F 30G 30H 60C,
+82,16A,12288,48A,
+83,16B,12288,48B,
+84,16C,2048,32A 32B,
+85,16D,2048,32C 32D,
+86,16E,2048,,aababbabababababbababbabbabbababbabbababababbababb
+87,16F,1024,,ababbababababbababbabbabb
+88,16G,256,,abababababbababbabbabbab
+89,16H,256,,Omitted  owing to  length.
+90,17A,68,34A 34B 34C,
+91,18A,1296,,abababababbababbabbabbababababababbababbabbabbababbabb
+92,18B,648,,Omitted  owing to  length.
+93,18C,432,36A 36B,
+94,18D,432,,aabababababbababbabbabbababbabbababababbababbabb
+95,18E,216,36C,
+96,18F,216,,abababbababb
+97,19A,38,38A,
+98,20A,38400,60A,
+99,20B,4000,,Omitted  owing to  length.
+100,20C,3200,,Omitted  owing to  length.
+101,20D,2560,40A 40B 40C,
+102,20E,960,60B,
+103,20F,640,40D,
+104,20G,480,40E 60C,
+105,20H,400,,abababbabababbababbabababbababb
+106,20I,160,,ababababbababbababababbababbabbababababbababbabb
+107,20J,80,,
+108,21A,252,42A 42B 42C,
+109,22A,132,66A,
+110,22B,88,44A,
+111,23A,46,23B5 46A 46B,
+112,23B,46,23A5 46A 46B,
+113,24A,2304,,abababbabababababbababbabbabbababababbababababbababb
+114,24B,2304,,Omitted  owing to  length.
+115,24C,2304,,Omitted  owing to  length.
+116,24D,2304,,Omitted  owing to  length.
+117,24E,2304,,ababbabababbabababbababb
+118,24F,1728,,ababbababbabababbabababbababb
+119,24G,768,48A 48B,
+120,24H,576,,Omitted  owing to  length.
+121,24I,576,,abababbabababbababbababababbababbabb
+122,24J,192,,abababbabababbababbabababbab
+123,24K,192,,abababababbababbabababbab
+124,24L,192,,abababbababababbababbabababbababababababbababbabbabb
+125,24M,96,,abababbababababbababbabababbabababababbababbabbabb
+126,24N,96,,bababababbababbabababababbababbabbabb
+127,25A,25,,ababababbabababbab
+128,26A,104,52A,
+129,26B,52,,ababababbabababbababb
+130,27A,27,,abababbababbababababbababbabb
+131,28A,448,,aabababbababbabababababbababbabbabbababbabbababbab
+132,28B,448,56A 56B,
+133,28C,224,,abababbababbabababbababbababababbababb
+134,28D,224,,Omitted  owing to  length.
+135,28E,112,,abababbabababababbababbabb
+136,30A,3600,,Omitted  owing to  length.
+137,30B,360,,aabababbabababbabababababbababbabbabbababbabbababb
+138,30C,360,,Omitted  owing to  length.
+139,30D,240,60A 60B,
+140,30E,240,,abababbababbabababbababababbab
+141,30F,120,60C,
+142,30G,60,30H7,
+143,30H,60,30G7,
+144,31A,31,31B3,
+145,31B,31,31A3,
+146,32A,128,32B3,
+147,32B,128,32A3,
+148,32C,128,32D5,
+149,32D,128,32C5,
+150,33A,66,66A,
+151,34A,68,,ababababbababbabababababbababbabbabb
+152,34B,68,34C3,abababbabababbab
+153,34C,68,34B3,
+154,35A,70,70A,
+155,36A,216,,Omitted  owing to  length.
+156,36B,72,,abababbababbabababababbababbabbabb
+157,36C,36,,ababbabababbababbabababbab
+158,38A,38,,ababababbababbababababbababbabb
+159,39A,39,,ababababbababababbababbabb
+160,40A,320,,Omitted  owing to  length.
+161,40B,320,,abababbabababababbababbabbababababbababbabb
+162,40C,160,,Omitted  owing to  length.
+163,40D,80,,ababb
+164,40E,40,,ababababbababababbababb
+165,42A,252,,Omitted  owing to  length.
+166,42B,84,,aabababababbababbabbabbababababababbababbabbabbababbabb
+167,42C,84,,abababbababababababbababbabbabbababb
+168,44A,44,,abababbabababababbababb
+169,46A,46,46B5,abababababbababbabbabb
+170,46B,46,46A5,
+171,47A,47,47B5,abababbababababbababb
+172,47B,47,47A5,
+173,48A,96,,ababababbab
+174,48B,96,,ababababbababbabbabbabababababbababbabbabbababb
+175,52A,52,,ababbababbababababbababb
+176,55A,55,,ab
+177,56A,112,56B5,ababbababababbababbabababbababb
+178,56B,112,56A5,
+179,60A,120,,abbababababbababbabbabababb
+180,60B,120,,abababababbababbabbabbababbababababbababbabababababbababbabbabb
+181,60C,60,,ababababbababababbab
+182,66A,66,,abababbabababababbababbabbababababbababb
+183,70A,70,,abababababbababbabababbababb
+184,30G-H,,,abababababbababbabbabababbab
+185,31A-B,,,ababababbababb
+186,32A-B,,,abababababbababb
+187,32C-D,,,ababababababbababbabbabbababb

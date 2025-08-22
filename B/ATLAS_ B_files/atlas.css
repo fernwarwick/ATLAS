@@ -1,0 +1,122 @@
+/*
+ * Style sheet for v3 of the web-Atlas of Group Representations.
+ */
+
+/* Style-sheet for ATLAS v3 prototype */
+
+/* Horrid kludges abound. Someone who knows CSS should probably rewrite this! */
+
+/* TODO: Paul Wakeley has pointed out that it might be better to specify sizes in ems rather than pxs or pts.
+   This makes things scale better when font sizes are changed by the user. */
+
+BODY { font-family: "Lucida Bright", "Lucida Serif", serif; background-color: white; color: black; }
+P { line-height: 115% }
+P.note { line-height: 100%; margin-left: 1em; }
+LI { margin-bottom: 0.15em }
+LI.wide { margin-bottom: 0.5em }
+H1, H2, H3, H4 { font-family: "Lucida Sans", sans-serif; }
+H1 {color: #000099; background-color: inherit; font-size: 175%; font-weight: 700; }
+H2 {color: #2222BB; background-color: inherit; font-size: 150%; font-weight: 600 }
+H3 {color: #5555DD; background-color: inherit; font-size: 125%; font-weight: 500 }
+    /* 19/10/05: Darker so that JNB will stop hassling me! */
+H4 A {color: #6600CC; background-color: inherit; font-size: 100%; font-weight: 600}
+BODY {background-color: #FFFFFF; color: #000000; margin: 0pt}
+.zero { color: #FF0000; background-color: inherit; }
+TH.aboutrep { background-color: #CCCCCC; color: black; vertical-align: top; text-align: left }
+TD.aboutrep { background-color: #EEEEEE; color: black; vertical-align: top; }
+TH.aut { background-color: #CCCCCC; vertical-align: top; color: black; }
+TD.aut { background-color: #EEEEEE; vertical-align: top; color: black; }
+TH.misc { background-color: #CCCCCC; color: black; }
+TD.misc { background-color: #EEEEEE; color: black; }
+TH.todo { background-color: #CCCCCC; color: black;}
+TD.todo { background-color: #EEEEEE; color: black; }
+TH.cert { background-color: #CCCCCC; text-align: left; color: black; }
+TD.cert { background-color: #EEEEEE; color: black; }
+TH.finder { background-color: #CCCCCC; vertical-align: top; color: black; }
+TD.finder { background-color: #EEEEEE; vertical-align: top; color: black; }
+TH.semipres { background-color: #CCCCCC; color: black; }
+TD.semipres { background-color: #EEEEEE; text-indent: -7ex; padding-left: 7ex; color: black; }
+TH.permrep { background-color: #CCCCCC; color: black; }
+TD.permrep { background-color: #EEEEEE; color: black; }
+TH.matrixrep { background-color: #CCCCCC; color: black; }
+TD.matrixrep { background-color: #EEEEEE; color: black; }
+TH.pres { background-color: #CCCCCC; color: black; }
+TD.pres { background-color: #EEEEEE; color: black; text-indent: -6ex; padding-left: 6ex }
+TD.presnormal { background-color: #EEEEEE; color: black; }
+TH.info { background-color: #CCCCCC; color: black; }
+TD.info { background-color: #EEEEEE; color: black; }
+TH.maxes { background-color: #CCCCCC; color: black; }
+TD.maxes { background-color: #EEEEEE; color: black; }
+TH.ccl { background-color: #CCCCCC; color: black; }
+TD.ccl { background-color: #EEEEEE; color: black; }
+TD.cclSmall { background-color: #EEEEEE; color: black; font-size: 75% }
+TD.fakeccl { background-color: #FFFFFF; color: black; }
+TH.rhs { background-color: #DFDFFF; color: black; }
+TD.rhs { background-color: #CFDFFF; color: black; }
+TD.infototal { font-weight: bold; background-color: #CCCCCC; color: black; }
+.alternatives { color: #808080; background-color: inherit }
+.redundant { color: #808080; background-color: inherit; text-decoration: line-through }
+.note {  }
+.debug { color: #FF0000; background-color: white; font-weight: bold }
+A {text-decoration: none} /* Underlining names of groups looks horrid */
+A:link {color: #0000DD; background-color: inherit;}
+A:visited {color: #000066; background-color: inherit;}
+A:link:hover { text-decoration: underline}
+A:visited:hover { text-decoration: underline}
+A.PW {text-decoration: none}
+
+H2.rhs { color: #000000; background-color: inherit; font-size: 120%; font-weight: 600; margin-bottom: 0px; text-align: center; margin-top: 8pt;}
+H3.rhs { color: #000000; background-color: inherit; font-size: 100%; font-weight: 600; margin-bottom: 6px; text-align: center}
+P.rhs { margin-top: 0; font-size: 90%; line-height: 150%; text-align: left; margin-left: 6pt; margin-right: 6pt;}
+HR.rhs { border: 1px; width: 90%; height: 1px }
+
+#footer {
+	background-color: #eeeeff;
+	border: solid #0000c0 2px;
+	color: #000000;
+	padding: 10px;
+	margin:20px 200px 8px 20px; 
+}
+
+#header {
+	background-color: #eeeeff;
+	color: black;
+	padding-left: 10pt;
+	padding-right: 0pt;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	border: solid #0000c0 2px;
+}
+
+#main {
+	margin:20px 200px 8px 20px;
+	padding:0px;
+}
+
+#navigation {
+	position:absolute;
+	top:92pt; /* 40mm */
+	right:10pt;
+	width:170px;
+	padding:0pt;
+	background-color:#dfdfff;
+	color: black;
+	/*border:1px dashed #000000; */
+        border: solid #0000c0 2px;
+	line-height:17px;
+	}
+#navigationFixed {
+	position:absolute; /* bloody MSIE does not support fixed */  
+	top:92pt; /* 40mm */
+	right:10pt;
+	width:170px;
+	padding:0pt;
+	background-color:#dfdfff;
+	color: black;
+	/*border:1px dashed #000000; */
+        border: solid #0000c0 2px;
+	line-height:17px;
+	}
+/* Again, "be nice to Opera 5". */
+body>#Menu {width:150px;}
+
